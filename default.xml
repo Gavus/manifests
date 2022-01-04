@@ -14,4 +14,5 @@
   <project path="coding/hiq-car-sim-test" name="HiQ-car-sim-test" revision="master"/>
   <project path="websites/jakebi" name="Gavus.github.io" revision="jakebi"/>
   <project path="keyboards/corne-ish-zen" name="zmk-config-Corne-ish-Zen" revision="fork"/>
+  <project path="manifests" name="manifests" revision="master"/>
 </manifest>
