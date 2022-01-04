@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="origin"
+  <remote name="github"
           fetch=".."
           review="git@github.com:Gavus/" />
-  <default remote="gavus"
+  <default remote="github"
            sync-j="8" />
   <project path="configs/dotfiles" name="dotfiles" revision="master"/>
   <project path="docs/cv" name="cv" revision="master"/>
