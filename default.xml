@@ -6,8 +6,8 @@
   <default revision="master"
            remote="gavus"
            sync-j="8" />
-  <project path="dotfiles" name="dotfiles" revision="master"/>
-  <project path="cv" name="cv" revision="master"/>
+  <project path="configs/dotfiles" name="dotfiles" revision="master"/>
+  <project path="docs/cv" name="cv" revision="master"/>
   <project path="containers/pavlov-server" name="pavlov-server" revision="master"/>
   <project path="containers/minecraft-server" name="minecraft-server" revision="master"/>
   <project path="coding/advent-of-go" name="advent-of-go" revision="master"/>
