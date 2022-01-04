@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="gavus"
+          fetch=".."
+          review="git@github.com:Gavus/" />
+  <default revision="master"
+           remote="gavus"
+           sync-j="8" />
+  <project path="dotfiles" name="dotfiles" revision="master"/>
+  <project path="cv" name="cv" revision="master"/>
+  <project path="containers/pavlov-server" name="pavlov-server" revision="master"/>
+  <project path="containers/minecraft-server" name="minecraft-server" revision="master"/>
+  <project path="coding/advent-of-go" name="advent-of-go" revision="master"/>
+  <project path="coding/hiq-car-sim-test" name="HiQ-car-sim-test" revision="master"/>
+  <project path="websites/jakebi" name="Gavus.github.io" revision="jakebi"/>
+  <project path="keyboards/corne-ish-zen" name="zmk-config-Corne-ish-Zen" revision="fork"/>
+</manifest>
