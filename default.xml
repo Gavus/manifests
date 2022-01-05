@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="github"
-          fetch=".."
-          review="git@github.com:Gavus/" />
-  <default remote="github"
-           sync-j="8" />
+  <remote name="Gavus" alias="origin" fetch=".." />
+  <remote  name="github" fetch="https://github.com" review="" />
+  <default remote="Gavus" sync-j="8" />
+
   <project path="configs/dotfiles" name="dotfiles" revision="master"/>
   <project path="docs/cv" name="cv" revision="master"/>
   <project path="containers/pavlov-server" name="pavlov-server" revision="master"/>
@@ -13,4 +12,6 @@
   <project path="coding/hiq-car-sim-test" name="HiQ-car-sim-test" revision="master"/>
   <project path="websites/jakebi" name="Gavus.github.io" revision="jakebi"/>
   <project path="keyboards/corne-ish-zen" name="zmk-config-Corne-ish-Zen" revision="fork"/>
+
+  <project path="containers/toolbox" name="containers/toolbox" remote="github" revision="main"/>
 </manifest>
