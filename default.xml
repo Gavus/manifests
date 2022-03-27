@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="Gavus" alias="origin" fetch=".." />
-  <remote  name="github" alias="origin" fetch="https://github.com" review="" />
+  <remote name="Gavus" fetch=".." />
+  <remote  name="github" fetch="https://github.com" review="" />
   <default remote="Gavus" sync-j="8" />
 
   <project path="configs/dotfiles" name="dotfiles" revision="main"/>

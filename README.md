@@ -2,9 +2,9 @@
 
 ## Install repo
 ```
-mkdir -p ~/bin
-curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
-chmod a+x ~/bin/repo
+mkdir -p ~/.local/bin
+curl https://storage.googleapis.com/git-repo-downloads/repo > ~/.local/bin/repo
+chmod a+x ~/.local/bin/repo
 ```
 
 ## Setup
