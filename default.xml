@@ -14,4 +14,5 @@
   <project path="coding/gocourse-axis" name="gocourse-axis" revision="main"/>
   <project path="websites/jakebi" name="Gavus.github.io" revision="jakebi"/>
   <project path="keyboards/corne-ish-zen" name="zmk-config-Corne-ish-Zen" revision="fork"/>
+  <project path="keyboards/kinesis-advantage" name="qmk-keymap-kinesis-corne" revision="main"/>
 </manifest>
