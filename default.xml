@@ -9,7 +9,6 @@
   <project path="configs/dotfiles" name="dotfiles" revision="main"/>
   <project path="containers/distroboxes" name="distroboxes" revision="main"/>
   <project path="containers/minecraft-server" name="minecraft-server" revision="main"/>
-  <project path="containers/pavlov-server" name="pavlov-server" revision="main"/>
   <project path="containers/tmux" name="nelsonenzo/tmux-appimage" remote="github" revision="master"/>
   <project path="courses/go-2021" name="gocourse-2021" revision="main"/>
   <project path="courses/gstreamer-2022" name="gstreamer-course-2022" revision="main"/>
