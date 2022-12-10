@@ -4,15 +4,17 @@
   <remote  name="github" fetch="https://github.com" review="" />
   <default remote="Gavus" sync-j="8" />
 
-  <project path="configs/dotfiles" name="dotfiles" revision="main"/>
-  <project path="docs/cv" name="cv" revision="main"/>
-  <project path="containers/pavlov-server" name="pavlov-server" revision="main"/>
-  <project path="containers/minecraft-server" name="minecraft-server" revision="main"/>
-  <project path="containers/distroboxes" name="distroboxes" revision="main"/>
   <project path="coding/advent-of-go" name="advent-of-go" revision="main"/>
   <project path="coding/hiq-car-sim-test" name="HiQ-car-sim-test" revision="main"/>
-  <project path="coding/gocourse-axis" name="gocourse-axis" revision="main"/>
-  <project path="websites/jakebi" name="Gavus.github.io" revision="jakebi"/>
+  <project path="configs/dotfiles" name="dotfiles" revision="main"/>
+  <project path="containers/distroboxes" name="distroboxes" revision="main"/>
+  <project path="containers/minecraft-server" name="minecraft-server" revision="main"/>
+  <project path="containers/pavlov-server" name="pavlov-server" revision="main"/>
+  <project path="containers/tmux" name="nelsonenzo/tmux-appimage" remote="github" revision="master"/>
+  <project path="courses/go-2021" name="gocourse-2021" revision="main"/>
+  <project path="courses/gstreamer-2022" name="gstreamer-course-2022" revision="main"/>
+  <project path="docs/cv" name="cv" revision="main"/>
   <project path="keyboards/corne-ish-zen" name="zmk-config-Corne-ish-Zen" revision="fork"/>
   <project path="keyboards/kinesis-advantage" name="qmk-keymap-kinesis-corne" revision="main"/>
+  <project path="websites/jakebi" name="Gavus.github.io" revision="jakebi"/>
 </manifest>
