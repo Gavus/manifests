@@ -17,5 +17,6 @@
   <project path="keyboards/corne-ish-zen" name="zmk-config-Corne-ish-Zen" revision="fork"/>
   <project path="keyboards/kinesis-advantage" name="qmk-keymap-kinesis-corne" revision="main"/>
   <project path="keyboards/usb-usb" name="qmk-keymap-usb-usb" revision="main"/>
+  <project path="keyboards/soarers-coverter" name="soarers-coverter-containerized" revision="main"/>
   <project path="websites/jakebi" name="Gavus.github.io" revision="jakebi"/>
 </manifest>
