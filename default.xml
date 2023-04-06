@@ -7,6 +7,7 @@
   <project path="coding/advent-of-go" name="advent-of-go" revision="main"/>
   <project path="coding/gst-plugin-ascii" name="gst-plugin-ascii" revision="main"/>
   <project path="coding/hiq-car-sim-test" name="HiQ-car-sim-test" revision="main"/>
+  <project path="configs/astronvim-config" name="astronvim-config" revision="main"/>
   <project path="configs/dotfiles" name="dotfiles" revision="main"/>
   <project path="containers/distroboxes" name="distroboxes" revision="main"/>
   <project path="containers/minecraft-server" name="minecraft-server" revision="main"/>
@@ -16,7 +17,7 @@
   <project path="docs/cv" name="cv" revision="main"/>
   <project path="keyboards/corne-ish-zen" name="zmk-config-Corne-ish-Zen" revision="fork"/>
   <project path="keyboards/kinesis-advantage" name="qmk-keymap-kinesis-corne" revision="main"/>
-  <project path="keyboards/soarers-coverter" name="soarers-coverter-containerized" revision="main"/>
+  <project path="keyboards/soarers-converter" name="soarers-converter-container" revision="main"/>
   <project path="keyboards/usb-usb" name="qmk-keymap-usb-usb" revision="main"/>
   <project path="websites/jakebi" name="Gavus.github.io" revision="jakebi"/>
 </manifest>
