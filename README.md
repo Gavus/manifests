@@ -9,8 +9,8 @@ chmod a+x ~/.local/bin/repo
 
 ## Setup
 ```
-git config --global user.email "gustavsj@outlook.com"
-git config --global user.name "Gustav Johansson"
+git config --global user.email "my-email"
+git config --global user.name "my-name"
 repo init git@github.com:Gavus/manifests.git
 repo sync
 ```
