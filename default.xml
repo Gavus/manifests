@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="Gavus" fetch=".." />
+  <remote name="Gavus" fetch="git@github.com:Gavus" />
   <remote  name="github" fetch="https://github.com" review="" />
   <default remote="Gavus" sync-j="8" />
 
   <project path="coding/advent-of-go" name="advent-of-go" revision="main"/>
-  <project path="coding/gst-plugin-ascii" name="gst-plugin-ascii" revision="main"/>
   <project path="coding/hiq-car-sim-test" name="HiQ-car-sim-test" revision="main"/>
   <project path="configs/astronvim-config" name="astronvim-config" revision="main"/>
   <project path="configs/dotfiles" name="dotfiles" revision="main"/>
@@ -16,7 +15,6 @@
   <project path="courses/gstreamer-2022" name="gstreamer-course-2022" revision="main"/>
   <project path="docs/cv" name="cv" revision="main"/>
   <project path="keyboards/corne-ish-zen" name="zmk-config-Corne-ish-Zen" revision="fork"/>
-  <project path="keyboards/kinesis-advantage" name="qmk-keymap-kinesis-corne" revision="main"/>
   <project path="keyboards/soarers-converter" name="soarers-converter-container" revision="main"/>
   <project path="keyboards/usb-usb" name="qmk-keymap-usb-usb" revision="main"/>
   <project path="websites/jakebi" name="Gavus.github.io" revision="jakebi"/>
