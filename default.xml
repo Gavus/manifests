@@ -15,6 +15,7 @@
   <project path="courses/gstreamer-2022" name="gstreamer-course-2022" revision="main"/>
   <project path="docs/cv" name="cv" revision="main"/>
   <project path="keyboards/corne-ish-zen" name="zmk-config-Corne-ish-Zen" revision="fork"/>
+  <project path="keyboards/kinesis-advantage" name="qmk-keymap-kinesis" revision="main"/>
   <project path="keyboards/soarers-converter" name="soarers-converter-container" revision="main"/>
   <project path="keyboards/usb-usb" name="qmk-keymap-usb-usb" revision="main"/>
   <project path="websites/jakebi" name="Gavus.github.io" revision="jakebi"/>
